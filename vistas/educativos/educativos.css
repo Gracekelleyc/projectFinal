@@ -1,0 +1,1 @@
+input{width: 50%;} body { background-color: rgb(85, 134, 209); color: wheat; text-align: center; } .card { display: inline-block; margin-right: 50px; margin-bottom: 35px; cursor: pointer; } img:hover{ scale: 1.2; } .peque { color: blue; font-size: 1.5rem; } .peque:hover { color: #f5f10c; font-size: 1.8rem; } .cabecera { position: fixed; left: 0; top: 0; width: 100%; }

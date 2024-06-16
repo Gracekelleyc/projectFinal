@@ -26,12 +26,5 @@ video { z-index: -1; width: 100%; }
 .card{
   
 }
-.image-grapper{
-  height: 22vw;
-  margin: 0 auto;
-}
-.image-grapper img{
-  max-height: 100%;
 
-  max-width: 100%;
-}
+

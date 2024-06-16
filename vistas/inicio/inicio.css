@@ -22,9 +22,15 @@ video { z-index: -1; width: 100%; }
 .card-wrapper{
   display: flex;
 }
-
 .card{
-  
+  margin: 0.5em;
+  width: calc(100%/3);
 }
-
+.image-grapper{
+  height: 22vw;
+  margin: 0 auto;
+}
+.image-grapper img{
+  max-height: 100%;  max-width: 100%;
+}
 

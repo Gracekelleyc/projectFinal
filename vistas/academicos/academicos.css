@@ -1,1 +1,4 @@
 body { background-color: rgb(85, 134, 209); color: wheat; text-align: center; } h5 { text-align: left; } .plan{ text-decoration: none; color: black; } .peque { color: blue; font-size: 1.5rem; } .peque:hover { color: #f5f10c; font-size: 1.8rem; } .cabecera { position: fixed; left: 0; top: 0; width: 100%; } button:hover{ scale: 1.1; }
+a{
+    font-size: 1.4em;
+}

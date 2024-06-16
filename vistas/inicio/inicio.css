@@ -1,7 +1,7 @@
 input { width: 50%; } 
 .peque { color: blue; font-size: 1.5rem; }
 .peque:hover { color: #f5f10c; font-size: 1.8rem; }
-body { background-color: rgb(85, 134, 209); color: wheat; text-align: center; }
+body { background-image: url(../../assets/imagenes/fondo.jpeg); color: wheat; text-align: center; }
 .contenedor { width: 40vw; height: 70vh; margin: 0 auto; } 
 .card { display: inline-block; } 
 .carousel-inner { width: 100%; } 

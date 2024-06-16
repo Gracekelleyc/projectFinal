@@ -3,3 +3,22 @@ input { width: 50%; } .peque { color: blue; font-size: 1.5rem; } .peque:hover { 
     height: 20vh;
   }
 }
+.card-wrapper{
+  display: flex;
+}
+.carouselExampleCaptions{
+  width: 100%;
+}
+.card{
+  margin: 0.5em;
+  width: calc(100%/3);
+}
+.image-grapper{
+  height: 22vw;
+  margin: 0 auto;
+}
+.image-grapper img{
+  max-height: 100%;
+  min-height: 100%;
+  max-width: 100%;
+}

@@ -24,8 +24,7 @@ video { z-index: -1; width: 100%; }
 }
 
 .card{
-  margin: 0.5em;
-  width: calc(100%/3);
+  
 }
 .image-grapper{
   height: 22vw;

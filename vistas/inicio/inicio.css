@@ -6,9 +6,7 @@ input { width: 50%; } .peque { color: blue; font-size: 1.5rem; } .peque:hover { 
 .card-wrapper{
   display: flex;
 }
-.carouselExampleCaptions{
-  width: 100%;
-}
+
 .card{
   margin: 1.5em;
   width: calc(100%/3);
